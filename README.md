@@ -1,0 +1,2 @@
+# The-Stock-Price-Prediction-System-Based-on-Temporal-Convolutional-Network-TCN-
+This project implements a high-precision stock price prediction system based on **Temporal Convolutional Network (TCN)**, specifically designed for Shanghai Composite Index prediction and analysis. Through deep learning technology and advanced time series modeling methods, it achieves **96.24% ultra-high fitting accuracy**.
